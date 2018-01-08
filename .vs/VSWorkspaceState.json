@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\todoapp",
+    "\\todoapp-angular",
+    "\\todoapp-angular\\src",
+    "\\todoapp-angular\\src\\app",
+    "\\todoapp-angular\\src\\app\\models",
+    "\\todoapp-angular\\src\\app\\services",
+    "\\todoapp\\routes\\api"
+  ],
+  "SelectedNode": "\\todoapp\\package.json",
+  "PreviewInSolutionExplorer": false
+}
